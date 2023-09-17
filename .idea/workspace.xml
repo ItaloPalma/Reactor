@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd903c2a-a67a-40e8-afbf-b1f5f8f055dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Mono/MonoExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MonoComRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MonoProducer/MonoProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="cd903c2a-a67a-40e8-afbf-b1f5f8f055dc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
